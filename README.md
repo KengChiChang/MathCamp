@@ -1,5 +1,5 @@
 # Math Prefresher Text 
-![](https://travis-ci.org/IQSS/prefresher.svg?branch=master) [![Github All Releases](https://img.shields.io/github/downloads/IQSS/prefresher/total.svg)]()
+![](https://travis-ci.com/github/KengChiChang/MathCamp?branch=master)
 
 _(view this book on a [browser](https://iqss.github.io/prefresher/) or in a [PDF](https://github.com/IQSS/prefresher/releases))_
 
